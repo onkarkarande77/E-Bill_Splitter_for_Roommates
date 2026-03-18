@@ -37,4 +37,4 @@ Member 3 owes 300 to Member 1
 Member 4 owes 300 to Member 1  
 
 ## Author
-Onkar 
+Onkar Karande
