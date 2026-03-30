@@ -10,6 +10,6 @@ public class DBConnection {
     
     public static Connection getConnection() throws Exception{
     	
-    	return DriverManager.getConnection(URL, USER, PASSWORD);
+    	 return DriverManager.getConnection(URL, USER, PASSWORD);
     }
 }
